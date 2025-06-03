@@ -7,7 +7,7 @@ Este repositório contém o código desenvolvido como parte do projeto da discip
 - Patrick Catchpole - [@patcatchpole]
 - Davi Aleixo - [@AleixoCv]
 - Julia Calado - [@caliuj]
-- Vinicius Da Paz - 
+- Vinicius Da Paz - [@viniciusgonc]
 - Jose Guilherme -
 
 ## 📂 Estrutura do repositório
@@ -38,6 +38,7 @@ https://colab.research.google.com/drive/1fqAZwaN2Ogan8KazbdQJS1AOMsW9uk0P#
 O Google Colab já possui a maioria das bibliotecas utilizadas instaladas por padrão. Caso alguma biblioteca adicional seja necessária, você pode instalá-la diretamente no notebook utilizando o comando !pip install nome-da-biblioteca em uma célula.
 
 Essa opção dispensa qualquer instalação local.
+
 2. Executar localmente
 
 Caso deseje executar o notebook em sua máquina local, será necessário ter o Python 3 instalado e um ambiente com as bibliotecas necessárias. Para isso:
