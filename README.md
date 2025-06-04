@@ -8,7 +8,7 @@ Este repositório contém o código desenvolvido como parte do projeto da discip
 - Davi Aleixo - [@AleixoCv]
 - Julia Calado - [@caliuj]
 - Vinicius Da Paz - [@viniciusgonc]
-- Jose Guilherme -
+- Jose Guilherme - [@joseguilhermemarinho]
 
 ## 📂 Estrutura do repositório
 
